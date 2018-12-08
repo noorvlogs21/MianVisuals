@@ -1,0 +1,28 @@
+    /* OWNER */
+- Owner: (*) Noor Uddin
+- Contact: noorvlogs21@gmail.com
+- URL: http://bit.ly/NoorDevelops
+- Insta: @nooruddin97
+- From: Middlesbrough, UK
+*-----------------------------------------*
+- UI developer: *
+- Web designer: *
+
+    /* TEAM */
+- Mian Visuals (Client)
+- Insta: @mian_visuals / @r.ali__46 + @amaan_w60
+- www: https://mianvisuals.myportfolio.com/ (soon to have this)
+
+    /* SITE */
+- Language: English
+- Standards: HTML5, CSS3, JS
+- Components: jQuery, TypeScript, API - Firebase
+- Resources: Brackets.io, VS Code, FileZilla, Git/Github, 
+  Google - Analytics, Firebase, Materialize,
+  Mian Visuals Content - images and videos
+
+    /* About Project */
+Final year project for Web-Development @ Teesside Uni - 
+Giving the local business, Mian Visuals, a fully working web-app that will allow users to view and interact with Mian Visuals Work.
+Users can also contact them via the form or social links.
+This can be viewed on all devices and is responsive to be able to do so.
