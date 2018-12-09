@@ -18,13 +18,16 @@ Primary use:    'Main Styles for Site'
 4. Contact
 5. Login
 -------------------------------------------------------------------*/
-html {
+html, body {
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#45484d+0,000000+100;Black+3D+%231 */
 background: #45484d; /* Old browsers */
 background: -moz-linear-gradient(-45deg, #45484d 0%, #000000 100%); /* FF3.6-15 */
 background: -webkit-linear-gradient(-45deg, #45484d 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
 background: linear-gradient(135deg, #45484d 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background-size: cover;
+
+font-family: 'Acme', sans-serif;
 }
 
 /* 1. Index */
@@ -52,13 +55,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
     width: 50%;
     height: 100%;
     float: left;
-    font-family: 'Acme', sans-serif;
     color: purple;
 }
 
 #serviceMedia {
     border-right: 2px solid #fff;
-    background-image: url(/img/testImg2.jpg);
+    background-image: url(/img/indexImg/mediaBG.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 90% 90%;
@@ -74,7 +76,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 
 #serviceWD {
     border-left: 2px solid #fff;
-    background-image: url(/img/testimg.jpg);
+    background-image: url(/img/indexImg/WDBG.jpg);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 90% 90%;
@@ -93,6 +95,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
     margin-top: 40%;
 }
 
+#smLinks::before {
+    position: absolute;
+    left: -99px;
+    bottom: 0;
+    content: "Find us on:";
+    font-size: 1.5em;
+    color: #fff;
+}
 #smLinks {
     width: 50%;
     height: 80px;
@@ -128,4 +138,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+#navButton {
+   background-color: #c8c8c8
 }
