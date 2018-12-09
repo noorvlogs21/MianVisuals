@@ -11,15 +11,15 @@
     /* TEAM */
 - Mian Visuals (Client)
 - Insta: @mian_visuals / @r.ali__46 + @amaan_w60
-- www: https://mianvisuals.myportfolio.com/ (soon to have this)
+- URL: https://mianvisuals.myportfolio.com/ (soon to have this)
 
     /* SITE */
 - Language: English
 - Standards: HTML5, CSS3, JS
-- Components: jQuery, TypeScript, API - Firebase
-- Resources: Brackets.io, VS Code, FileZilla, Git/Github, 
+- Components: jQuery, TypeScript, API - Firebase, MaterializeCSS, CSS Transitions
+- Resources: Brackets.io, VS Code, FileZilla, Git/Github,
   Google - Analytics, Firebase, Materialize,
-  Mian Visuals Content - images and videos
+  Mian Visuals Content - images and videos,
 
     /* About Project */
 Final year project for Web-Development @ Teesside Uni - 
