@@ -66,7 +66,7 @@ body {
 
 #serviceMedia {
     border-right: 2px solid #fff;
-    background-image: url(../img/indexImg/mediaBG.jpg);
+    background-image: url(/img/indexImg/mediaBG.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 95% 95%;
@@ -84,7 +84,7 @@ body {
 
 #serviceWD {
     border-left: 2px solid #fff;
-    background-image: url(../img/indexImg/WDBG.jpg);
+    background-image: url(/img/indexImg/WDBG.jpg);
     background-position: left;
     background-repeat: no-repeat;
     border-top-left-radius: 1%;
@@ -135,21 +135,21 @@ body {
 }
 
 #FB {
-    background-image: url(../img/indexImg/fb.svg);
+    background-image: url(/img/indexImg/fb.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 #Insta {
-    background-image: url(../img/indexImg/insta.svg);
+    background-image: url(/img/indexImg/insta.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 #Email {
-    background-image: url(../img/indexImg/email.svg);
+    background-image: url(/img/indexImg/email.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
